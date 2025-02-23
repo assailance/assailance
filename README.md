@@ -1,20 +1,26 @@
 <p align="center"><img src="https://media1.tenor.com/m/h7ewYc7_Yp8AAAAC/future-diary-mirai-nikki.gif" width="800"/></p>
 
 </br>
-</br>
 
-<p align="center">
-  <img align="left" src="images/flower-2.png" width="200"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=200&color=dea1ac&center=true&random=false&height=100&lines=assailance" alt="assailance" />
-  <img align="right" src="images/flower.png" width="200"/>
+<p>
+  <img align="left" src="images/flower-2.png" width="130"/>
+  <img align="right" src="images/flower.png" width="130"/>
 </p>
 
 </br>
+</br>
+</br>
 
-<p align="center">
-  <img src="images/telegram.png" width="247"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="images/mailru.png" width="220"/>
+<p>
+  <img align="left" src="https://media1.tenor.com/m/iEfPnygQuroAAAAC/anime-looking-scared.gif" width="230"/>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=200&color=dea1ac&center=true&random=false&height=100&lines=assailance" alt="assailance" />
+    <p align="center">
+      <img src="images/telegram.png" width="205"/>
+      &nbsp;&nbsp;&nbsp;
+      <img src="images/mailru.png" width="180"/>
+    </p>
+  </p>
 </p>
 
 </br>
