@@ -11,9 +11,10 @@
 
 </br>
 
-<img src="images/border.png" width="100%" height="0.5"/>
+<img align="right" src="images/flower.png" width="150"/>
+<!-- <img src="images/border.png" width="100%" height="0.5"/> -->
 
-###### &nbsp;
+</br>
 
 <!--   <img align="left" src="https://media1.tenor.com/m/iEfPnygQuroAAAAC/anime-looking-scared.gif" width="230"/> -->
 
