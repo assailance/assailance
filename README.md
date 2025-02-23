@@ -2,15 +2,12 @@
 
 </br>
 
-<p>
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=200&color=dea1ac&center=true&random=false&height=100&lines=assailance" alt="assailance" />
-    <p align="center">
-      <img src="images/telegram.png" width="205"/>
-      &nbsp;&nbsp;&nbsp;
-      <img src="images/mailru.png" width="180"/>
-    </p>
-  </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=200&color=dea1ac&center=true&random=false&height=100&lines=assailance" alt="assailance" />
+  </br>
+  <img src="images/telegram.png" width="205"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/mailru.png" width="180"/>
 </p>
 
 </br>
