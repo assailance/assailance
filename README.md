@@ -10,7 +10,6 @@
 </p>
 
 </br>
-</br>
 
 <p align="center">
   <img src="images/flower.png" width="130"/>
@@ -18,7 +17,6 @@
 
 <!-- <img src="images/border.png" width="100%" height="0.5"/> -->
 
-</br>
 </br>
 
 <!--   <img align="left" src="https://media1.tenor.com/m/iEfPnygQuroAAAAC/anime-looking-scared.gif" width="230"/> -->
