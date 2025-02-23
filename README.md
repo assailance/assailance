@@ -3,16 +3,6 @@
 </br>
 
 <p>
-  <img align="left" src="images/flower-2.png" width="130"/>
-  <img align="right" src="images/flower.png" width="130"/>
-</p>
-
-</br>
-</br>
-</br>
-
-<p>
-  <img align="left" src="https://media1.tenor.com/m/iEfPnygQuroAAAAC/anime-looking-scared.gif" width="230"/>
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=200&color=dea1ac&center=true&random=false&height=100&lines=assailance" alt="assailance" />
     <p align="center">
