@@ -12,7 +12,10 @@
 </br>
 </br>
 
-<p align="center"><img src="images/flower.png" width="130"/></p>
+<p align="center">
+  <img src="images/flower.png" width="130"/>
+</p>
+
 <!-- <img src="images/border.png" width="100%" height="0.5"/> -->
 
 </br>
