@@ -22,7 +22,12 @@
 
 <!--   <img align="left" src="https://media1.tenor.com/m/iEfPnygQuroAAAAC/anime-looking-scared.gif" width="230"/> -->
 
-<img src="images/languages_title.png" width="450"/> <img align="right" src="https://media.tenor.com/mS0fUae_nrsAAAAM/kingstyle.gif" width="350"/>
+<p align="left">
+  <img src="images/languages_title.png" width="450"/>
+  <img align="right" src="https://media.tenor.com/mS0fUae_nrsAAAAM/kingstyle.gif" width="350"/>
+  </br>
+  <img src="images/border.png" height="0.5"/>
+</p>
 
 </br>
 </br>
