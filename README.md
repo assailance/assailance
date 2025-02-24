@@ -26,26 +26,26 @@
 <img align="right" src="https://media.tenor.com/mS0fUae_nrsAAAAM/kingstyle.gif" width="350"/>
 <div align="left">
   <img src="images/python.png" height="40" alt="python" title="Python"/>
-  <img src="images/django.png" height="40" alt="django"/>
-  <img src="images/javascript.png" height="40" alt="javascript"/>
-  <img src="images/typescript.png" height="40" alt="typescript"/>
-  <img src="images/jquery.png" height="40" alt="jquery"/>
-  <img src="images/vue.png" height="40" alt="vue"/>
-  <img src="images/vite.png" height="40" alt="vite"/>
-  <img src="images/nodejs.png" height="40" alt="nodejs"/>
-  <img src="images/npm.png" height="40" alt="npm"/>
-  <img src="images/html.png" height="40" alt="html"/>
-  <img src="images/css.png" height="40" alt="css"/>
-  <img src="images/tailwind.png" height="40" alt="tailwind"/>
-  <img src="images/bootstrap.png" height="40" alt="bootstrap"/>
-  <img src="images/git.png" height="40" alt="git"/>
-  <img src="images/docker.png" height="40" alt="docker"/>
-  <img src="images/nginx.png" height="40" alt="nginx"/>
-  <img src="images/redis.png" height="40" alt="redis"/>
-  <img src="images/postgresql.png" height="40" alt="postgresql"/>
-  <img src="images/mysql.png" height="40" alt="mysql"/>
-  <img src="images/bash.png" height="40" alt="bash"/>
-  <img src="images/linux.png" height="40" alt="linux"/>
+  <img src="images/django.png" height="40" alt="django" title="Django"/>
+  <img src="images/javascript.png" height="40" alt="javascript" title="Javascript"/>
+  <img src="images/typescript.png" height="40" alt="typescript" title="Typescript"/>
+  <img src="images/jquery.png" height="40" alt="jquery" title="Jquery"/>
+  <img src="images/vue.png" height="40" alt="vue" title="Vue"/>
+  <img src="images/vite.png" height="40" alt="vite" title="Vite"/>
+  <img src="images/nodejs.png" height="40" alt="nodejs" title="NodeJS"/>
+  <img src="images/npm.png" height="40" alt="npm" title="Npm"/>
+  <img src="images/html.png" height="40" alt="html" title="HTML"/>
+  <img src="images/css.png" height="40" alt="css" title="CSS"/>
+  <img src="images/tailwind.png" height="40" alt="tailwind" title="TailwindCSS"/>
+  <img src="images/bootstrap.png" height="40" alt="bootstrap" title="Bootstrap"/>
+  <img src="images/git.png" height="40" alt="git" title="Git"/>
+  <img src="images/docker.png" height="40" alt="docker" title="Docker"/>
+  <img src="images/nginx.png" height="40" alt="nginx" title="Nginx"/>
+  <img src="images/redis.png" height="40" alt="redis" title="Redis"/>
+  <img src="images/postgresql.png" height="40" alt="postgresql" title="PostgreSQL"/>
+  <img src="images/mysql.png" height="40" alt="mysql" title="MySQL"/>
+  <img src="images/bash.png" height="40" alt="bash" title="Bash"/>
+  <img src="images/linux.png" height="40" alt="linux" title="Linux"/>
 </div>
 
 </br>
