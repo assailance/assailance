@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&pause=200&color=dea1ac&center=true&random=false&height=100&lines=assailance" alt="assailance" />
   </br>
-  <a href="https://t.me/jdidjskjss" target="_blank"><img src="images/telegram.png" width="170" alt="telegram"/></a>
+  <a href="https://t.me/jdidjskjss"><img src="images/telegram.png" width="170" alt="telegram"/></a>
   <img width="8"/>
   <a href="mailto:intellligency@mail.ru"><img src="images/mailru.png" width="150" alt="mailru"/></a>
 </div>
@@ -25,7 +25,7 @@
 
 <img align="right" src="https://media.tenor.com/mS0fUae_nrsAAAAM/kingstyle.gif" width="350"/>
 <div align="left">
-  <img src="images/python.png" height="40" alt="python"/>
+  <img src="images/python.png" height="40" alt="python" title="Python"/>
   <img src="images/django.png" height="40" alt="django"/>
   <img src="images/javascript.png" height="40" alt="javascript"/>
   <img src="images/typescript.png" height="40" alt="typescript"/>
