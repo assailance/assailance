@@ -22,7 +22,7 @@
 <img src="images/border.png" width="100%" height="0.5" alt="border"/>
 </br>
 
-<img align="right" src="https://media.tenor.com/mS0fUae_nrsAAAAM/kingstyle.gif" width="350"/>
+<img align="right" src="images/yuno.png" width="350"/>
 <div align="left">
   <img src="images/python.png" height="40" alt="python" title="Python"/>
   <img src="images/django.png" height="40" alt="django" title="Django"/>
