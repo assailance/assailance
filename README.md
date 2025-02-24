@@ -10,6 +10,7 @@
 </div>
 
 </br>
+</br>
 
 <div align="center">
   <img src="images/flower.png" width="130" alt="flower"/>
@@ -49,11 +50,10 @@
 
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=assailance&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=assailance&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
 
 <img src="images/border.png" width="100%" height="0.5" alt="border"/>
 
-</br>
 </br>
 
 <div align="center">
