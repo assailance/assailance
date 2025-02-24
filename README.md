@@ -29,11 +29,11 @@
   <img src="images/django.png" height="40" alt="django" title="Django"/>
   <img src="images/javascript.png" height="40" alt="javascript" title="Javascript"/>
   <img src="images/typescript.png" height="40" alt="typescript" title="Typescript"/>
-  <img src="images/jquery.png" height="40" alt="jquery" title="Jquery"/>
   <img src="images/vue.png" height="40" alt="vue" title="Vue"/>
   <img src="images/vite.png" height="40" alt="vite" title="Vite"/>
   <img src="images/nodejs.png" height="40" alt="nodejs" title="NodeJS"/>
   <img src="images/npm.png" height="40" alt="npm" title="Npm"/>
+  <img src="images/jquery.png" height="40" alt="jquery" title="Jquery"/>
   <img src="images/html.png" height="40" alt="html" title="HTML"/>
   <img src="images/css.png" height="40" alt="css" title="CSS"/>
   <img src="images/tailwind.png" height="40" alt="tailwind" title="TailwindCSS"/>
