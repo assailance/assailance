@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&pause=200&color=dea1ac&center=true&random=false&height=100&lines=assailance" alt="assailance" />
   </br>
   <a href="https://t.me/jdidjskjss"><img src="images/telegram.png" width="170" alt="telegram"/></a>
-  <img width="8"/>
   <a href="mailto:intellligency@mail.ru"><img src="images/mailru.png" width="150" alt="mailru"/></a>
 </div>
 
