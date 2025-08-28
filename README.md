@@ -48,7 +48,7 @@
 
 </br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=assailance&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=assailance&theme=swift&show_icons=true&hide_border=true&layout=compact)
 
 <img src="assets/isagi-yoichi/border.jpg" width="100%" height="0.5" alt="border"/>
 
