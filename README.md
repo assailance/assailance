@@ -19,7 +19,7 @@
 </br>
 </br>
 
-<img src="assets/yuno-gasai/languages_title.png" width="500" alt="languages-title"/>
+<img src="assets/yuno-gasai/languages-title.png" width="500" alt="languages-title"/>
 <img src="assets/yuno-gasai/border.png" width="100%" height="0.5" alt="border"/>
 </br>
 
