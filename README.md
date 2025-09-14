@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&pause=200&color=fafafa&center=true&random=false&height=100&lines=assailance" alt="assailance" />
   </br>
-  <a href="assailance.ru"><img src="assets/isagi-yoichi/website.webp" height="60" alt="personal website"/></a>
+  <a href="https://assailance.ru"><img src="assets/isagi-yoichi/website.webp" height="60" alt="personal website"/></a>
   <a href="https://t.me/jdidjskjss"><img src="assets/isagi-yoichi/telegram.webp" height="60" alt="telegram"/></a>
   <a href="mailto:assailancepassion@gmail.com"><img src="assets/isagi-yoichi/email.webp" height="60" alt="mail"/></a>
 </div>
