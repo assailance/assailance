@@ -7,6 +7,7 @@
   </br>
   <a href="https://t.me/jdidjskjss"><img src="assets/isagi-yoichi/telegram.webp" height="60" alt="telegram"/></a>
   <a href="mailto:assailancepassion@gmail.com"><img src="assets/isagi-yoichi/email.webp" height="60" alt="mail"/></a>
+  <a href="assailance.ru"><img src="assets/isagi-yoichi/website.webp" height="60" alt="personal website"/></a>
 </div>
 
 </br>
